@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Social-media/static/css/main.8a78741a.css",
+    "main.js": "/Social-media/static/js/main.1ee1daef.js",
+    "static/js/787.d7317416.chunk.js": "/Social-media/static/js/787.d7317416.chunk.js",
+    "static/media/feed.jpg": "/Social-media/static/media/feed.58487fbb05a45c938f6a.jpg",
+    "static/media/story-6.jpg": "/Social-media/static/media/story-6.0b344157a091691419f3.jpg",
+    "static/media/story-2.jpg": "/Social-media/static/media/story-2.e689cc15ecadf258c87f.jpg",
+    "static/media/story-1.jpg": "/Social-media/static/media/story-1.f1abd30a779c766f86b8.jpg",
+    "static/media/story-3.jpg": "/Social-media/static/media/story-3.f5efdca5aebc9133d74c.jpg",
+    "static/media/mary.jpg": "/Social-media/static/media/mary.f2291547a06770928069.jpg",
+    "static/media/nine.jpg": "/Social-media/static/media/nine.0d4445cebc211dec7c35.jpg",
+    "static/media/request.jpg": "/Social-media/static/media/request.f10d3a50b40529c8de7d.jpg",
+    "static/media/story-5.jpg": "/Social-media/static/media/story-5.148d974c753689912b6b.jpg",
+    "static/media/imgtwo.jpg": "/Social-media/static/media/imgtwo.a6053e1dc5ddd56eaead.jpg",
+    "static/media/eleven.jpg": "/Social-media/static/media/eleven.f67c38ecae8eabd9769c.jpg",
+    "static/media/coment.jpg": "/Social-media/static/media/coment.45418c19c8fb40dc0da3.jpg",
+    "static/media/dana.jpg": "/Social-media/static/media/dana.a2b50f7cefeb131bd8e9.jpg",
+    "static/media/ten.jpg": "/Social-media/static/media/ten.cc787ab17cef9289ef97.jpg",
+    "static/media/pro.jpg": "/Social-media/static/media/pro.1fe89fec6f7e0f36f0f5.jpg",
+    "static/media/imgthree.jpg": "/Social-media/static/media/imgthree.fde411389a3fd9adaf59.jpg",
+    "static/media/mm.jpg": "/Social-media/static/media/mm.59a26bc79fe10596cf60.jpg",
+    "static/media/twel.jpg": "/Social-media/static/media/twel.70274409078a65393309.jpg",
+    "static/media/port.jpg": "/Social-media/static/media/port.5f58636a02fb92861aaa.jpg",
+    "static/media/profile.jpg": "/Social-media/static/media/profile.3b78f337804e7163592c.jpg",
+    "index.html": "/Social-media/index.html",
+    "main.8a78741a.css.map": "/Social-media/static/css/main.8a78741a.css.map",
+    "main.1ee1daef.js.map": "/Social-media/static/js/main.1ee1daef.js.map",
+    "787.d7317416.chunk.js.map": "/Social-media/static/js/787.d7317416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a78741a.css",
+    "static/js/main.1ee1daef.js"
+  ]
+}
